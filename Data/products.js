@@ -120,7 +120,7 @@ let userData = [
     email: 'GUEST@EXAMPLE.COM',
     userName: 'Guest',
     password: 'HYPERSPACE',
-    profile: '../../Resources/profile/guest.svg',
+    profile: '../../Resources/Profile/guest.svg',
   },
   {
     firstName: 'Victor',
@@ -128,7 +128,7 @@ let userData = [
     email: '20220578@NILEUNIVERSITY.EDU.NG',
     userName: 'Purpleacecard',
     password: '20220578',
-    profile: '../../Resources/profile/profile8.jpeg',
+    profile: '../../Resources/Profile/Profile8.jpeg',
   },
   {
     firstName: 'Paul',
@@ -136,7 +136,7 @@ let userData = [
     email: '20221371@NILEUNIVERSITY.EDU.NG',
     userName: 'ErinYaeger',
     password: '20221371',
-    profile: '../../Resources/profile/profile13.jpeg',
+    profile: '../../Resources/Profile/Profile13.jpeg',
   },
   {
     firstName: 'Shukrah',
@@ -144,7 +144,7 @@ let userData = [
     email: '20220079@NILEUNIVERSITY.EDU.NG',
     userName: 'Class Rep',
     password: '20220079',
-    profile: '../../Resources/profile/profile11.jpeg',
+    profile: '../../Resources/Profile/Profile11.jpeg',
   },
   {
     firstName: 'Joshua',
@@ -152,7 +152,7 @@ let userData = [
     email: '20220316@NILEUNIVERSITY.EDU.NG',
     userName: 'Boma',
     password: '20220316',
-    profile: '../../Resources/profile/profile7.jpeg',
+    profile: '../../Resources/Profile/Profile7.jpeg',
   },
   {
     firstName: 'Obinna',
@@ -160,7 +160,7 @@ let userData = [
     email: '20220176@NILEUNIVERSITY.EDU.NG',
     userName: 'Flaming Hero Endeavour',
     password: '20220176',
-    profile: '../../Resources/profile/profile1.jpeg',
+    profile: '../../Resources/Profile/Profile1.jpeg',
   },
   {
     firstName: 'Nshii',
@@ -168,7 +168,7 @@ let userData = [
     email: '20221592@NILEUNIVERSITY.EDU.NG',
     userName: 'Sporty Jinx',
     password: '20221592',
-    profile: '../../Resources/profile/profile2.jpeg',
+    profile: '../../Resources/Profile/profile2.jpeg',
   },
   {
     firstName: 'Ameer',
@@ -176,7 +176,7 @@ let userData = [
     email: '20220583@NILEUNIVERSITY.EDU.NG',
     userName: 'FranklinSaint',
     password: '20220583',
-    profile: '../../Resources/profile/profile4.jpeg',
+    profile: '../../Resources/Profile/Profile4.jpeg',
   },
   {
     firstName: 'Darien',
@@ -184,7 +184,7 @@ let userData = [
     email: '20221840@NILEUNIVERSITY.EDU.NG',
     userName: '1tbyt',
     password: '20221840',
-    profile: '../../Resources/profile/profile3.jpeg',
+    profile: '../../Resources/Profile/Profile3.jpeg',
   },
   {
     firstName: 'Ummusulaim',
@@ -192,7 +192,7 @@ let userData = [
     email: '20221020@NILEUNIVERSITY.EDU.NG',
     userName: 'Sulaeym',
     password: '20221020',
-    profile: '../../Resources/profile/profile12.jpeg',
+    profile: '../../Resources/Profile/Profile12.jpeg',
   },
   {
     firstName: 'Amangi',
@@ -200,7 +200,7 @@ let userData = [
     email: '20222731@NILEUNIVERSITY.EDU.NG',
     userName: 'SkyWalker',
     password: '20222731',
-    profile: '../../Resources/profile/profile10.jpeg',
+    profile: '../../Resources/Profile/Profile10.jpeg',
   },
   {
     firstName: 'Fatima',
@@ -208,7 +208,7 @@ let userData = [
     email: '20221945@NILEUNIVERSITY.EDU.NG',
     userName: 'EnolaHolmes',
     password: '20221945',
-    profile: '../../Resources/profile/profile9.jpeg',
+    profile: '../../Resources/Profile9.jpeg',
   },
 ];
 
